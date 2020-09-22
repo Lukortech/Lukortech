@@ -14,6 +14,8 @@ Githooked prettier, jest tests, codeship. AWS and Docker basics.
 - cybersecurity,
 - frontend.
 
+More about me: [npm cv](https://www.npmjs.com/package/@lukortech/cv)
+
 <img align="left" alt="Lukortech github stats" src="https://github-readme-stats.vercel.app/api?username=Lukortech&show_icons=true&hide_border=true">
 
 [![React badge](https://img.shields.io/badge/React-user-61DBFB.svg)](https://pl.reactjs.org/) <br>
