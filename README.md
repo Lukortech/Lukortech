@@ -28,3 +28,9 @@ More about me: [npm cv](https://www.npmjs.com/package/@lukortech/cv)
 I am currently taking part in the mentoring program for newcommers to the IT field.
 If you need advice, help, or just want someone to look at your code, let me know!
 Giving back to the community that gave to me :)
+
+
+If you think I deserve a coffe for my efforts in sharing knowledge: here it is.
+<br/>
+<br/>
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U72U5R3)
