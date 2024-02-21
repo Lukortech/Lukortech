@@ -1,9 +1,11 @@
-I come from Poland [🇵🇱] and I do JavaScript. 
+![Hello there](https://readme-typing-svg.herokuapp.com/?font=monaco&color=1D4A7D&size=36&vCenter=true&lines=Hello+there)
+
+I come from Poland [🇵🇱] and I do JavaScripts
 💻 My stack: 
 - React + TS [Hooks, functional components, styled components],
 - Redux,
 - Sass [mixins, functions, mediaqueries],
-- Bootstrap,
+- Bootstrap/ MUI,
 CI/ CD:
 Githooked prettier, jest tests, codeship. AWS and Docker basics.
 
@@ -23,14 +25,12 @@ More about me: [npm cv](https://www.npmjs.com/package/@lukortech/cv)
 [![Node.js badge](https://img.shields.io/badge/Node-user-68A063.svg)](https://nodejs.org/en/) <br>
 [![Twitter badge](https://img.shields.io/twitter/follow/lukortech?label=follow%20me%20%40lukortech&style=social)](https://mobile.twitter.com/LukorTech) <br>
 
-[<img alt="Praca w IT dla Stażystów i Juniorów (IT Jobs for Intern/Junior)" src="https://scontent.fwaw5-1.fna.fbcdn.net/v/t31.0-8/22181648_1079226248846412_758401004991203976_o.jpg?_nc_cat=111&_nc_sid=825194&_nc_ohc=y1nAFY4fossAX9JPsX2&_nc_ht=scontent.fwaw5-1.fna&oh=b83657c551a2601010e55297ce3e85ca&oe=5F817EB9">](https://www.facebook.com/groups/1561984417428846/mentorship_application)
 
 I am currently taking part in the mentoring program for newcommers to the IT field.
 If you need advice, help, or just want someone to look at your code, let me know!
 Giving back to the community that gave to me :)
 
-
-If you think I deserve a coffe for my efforts in sharing knowledge: here it is.
+<br/>If you think I deserve a coffe for my efforts in sharing knowledge: here it is.
 <br/>
 <br/>
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U72U5R3)
